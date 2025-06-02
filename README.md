@@ -1,6 +1,4 @@
-markdown
-Copy
-Edit
+
 # 🌐 IP Info Viewer
 
 A simple React application that displays a user's IP address and related geographic/network information using an IP geolocation API.
